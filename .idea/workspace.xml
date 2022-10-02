@@ -4,14 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f48114f2-12fe-4976-b2bd-241ad8a2e65e" name="Changes" comment="" />
+    <list default="true" id="f48114f2-12fe-4976-b2bd-241ad8a2e65e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObject/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObject/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObject/OrderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObject/OrderPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/DropdownListQuestionsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/DropdownListQuestionsTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/MakeOrderTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/MakeOrderTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FUbe3I943EgsH082mxJyUTFAzy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,9 +40,102 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.MakeOrderTests.checkMakingOrderfromHeader">
+    <configuration name="DropdownListQuestionsTests.checkCanMakeOrderOutsideMoscowDropdownListAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sprint4Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.DropdownListQuestionsTests" />
+      <option name="METHOD_NAME" value="checkCanMakeOrderOutsideMoscowDropdownListAnswer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DropdownListQuestionsTests.checkCanSeveralScootersDropdownListAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sprint4Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.DropdownListQuestionsTests" />
+      <option name="METHOD_NAME" value="checkCanSeveralScootersDropdownListAnswer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DropdownListQuestionsTests.checkFirstDropdownList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sprint4Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.DropdownListQuestionsTests" />
+      <option name="METHOD_NAME" value="checkFirstDropdownList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DropdownListQuestionsTests.checkHowMuchDropdownAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sprint4Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.DropdownListQuestionsTests" />
+      <option name="METHOD_NAME" value="checkHowMuchDropdownAnswer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeOrderTests.checkMakingOrderfromHeader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sprint4Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MakeOrderTests" />
+      <option name="METHOD_NAME" value="checkMakingOrderfromHeader" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MakeOrderTests.checkMakingOrderfromHeader" />
+        <item itemvalue="JUnit.DropdownListQuestionsTests.checkCanMakeOrderOutsideMoscowDropdownListAnswer" />
+        <item itemvalue="JUnit.DropdownListQuestionsTests.checkCanSeveralScootersDropdownListAnswer" />
+        <item itemvalue="JUnit.DropdownListQuestionsTests.checkHowMuchDropdownAnswer" />
+        <item itemvalue="JUnit.DropdownListQuestionsTests.checkFirstDropdownList" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
