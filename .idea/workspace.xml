@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f48114f2-12fe-4976-b2bd-241ad8a2e65e" name="Changes" comment="">
+    <list default="true" id="f48114f2-12fe-4976-b2bd-241ad8a2e65e" name="Changes" comment="develop:&#10;new tests - Order and Q/A tests&#10;page Object classes - variables and methods&#10;readme update&#10;add pom dependencie">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pageObject/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObject/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pageObject/OrderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObject/OrderPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/DropdownListQuestionsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/DropdownListQuestionsTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/MakeOrderTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/MakeOrderTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -145,6 +144,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664549704132</updated>
     </task>
+    <task id="LOCAL-00001" summary="develop:&#10;new tests - Order and Q/A tests&#10;page Object classes - variables and methods&#10;readme update&#10;add pom dependencie">
+      <created>1664696237579</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664696237579</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,5 +164,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="develop:&#10;new tests - Order and Q/A tests&#10;page Object classes - variables and methods&#10;readme update&#10;add pom dependencie" />
+    <option name="LAST_COMMIT_MESSAGE" value="develop:&#10;new tests - Order and Q/A tests&#10;page Object classes - variables and methods&#10;readme update&#10;add pom dependencie" />
   </component>
 </project>
